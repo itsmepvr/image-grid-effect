@@ -1,14 +1,6 @@
 window.onload = function() {
     
     document.getElementById("input").defaultValue = "10";
-    function effect(){
-        $("#img").html("");
-        val = $('input').val()
-        if(val == 0){
-            imageToGrid(1);
-        }
-        imageToGrid(val);
-    }
 
     imageToGrid(10);  //run function with required size
 
@@ -47,4 +39,14 @@ window.onload = function() {
             }
         }
     }
+    
+    $("button").click(function(){
+        $("#main").html("");
+        val = $('input').val()
+        if(val == 0){
+            imageToGrid(1);
+        }
+        imageToGrid(val);
+    })
+    
 }
