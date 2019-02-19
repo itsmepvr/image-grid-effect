@@ -1,6 +1,6 @@
 window.onload = function() {
     
-    //document.getElementById("input").defaultValue = "10";
+    document.getElementById("input").defaultValue = "10";
 
     imageToGrid(10);  //run function with required size with default width and height
     
