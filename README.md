@@ -43,9 +43,9 @@ See it in action on our [home page](https://itsmepvr.github.io/projects/image-gr
 
 **Venkata Ramana P**
 
-+ [https://linkedin.com/in/itsmepvr](https://linkedin.com/in/itsmepvr)
-+ [https://github.com/itsmepvr](https://github.com/itsmepvr)
 + [https://itsmepvr.github.io](https://itsmepvr.github.io)
++ [https://github.com/itsmepvr](https://github.com/itsmepvr)
++ [https://linkedin.com/in/itsmepvr](https://linkedin.com/in/itsmepvr)
 
 
 ------
