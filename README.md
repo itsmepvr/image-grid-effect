@@ -9,7 +9,6 @@ Image Grid Effect
 
 justify-multiple-images depends on plain javascript. To use it, include this in your page :
 
-    <script src="jquery.js" type="text/javascript"></script>
     <script src="image_grid_effect.js" type="text/javascript"></script>
 
 ------
@@ -36,6 +35,8 @@ You're done.
 ## Demo
 
 See it in action on our [home page](https://itsmepvr.github.io/projects/image-grid-effect/).
+
+<img src='files/effect.png' />
 
 ------
 
